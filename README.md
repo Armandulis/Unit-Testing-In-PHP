@@ -7,7 +7,7 @@ is here if you get really stuck. You should be able to reach  94% coverage. More
 But that's okay, as long as we get at least 80%. Note that you will have to make changes to the controller. 
 
 ## xdebug
-If you want to see code coverage, i highly suggest installing xdebug. This will display you (un)covered lines.
+If you want to see code coverage, i highly suggest installing xdebug. This will display to you (un)covered lines.
 1. Install xdebug: `$ pecl install xdebug`
 2. Open your `php.ini` file mine was in `/usr/local/etc/php/8.0/php.ini`
 3. Find `[xdebug]` -> if it's not there, just add it
