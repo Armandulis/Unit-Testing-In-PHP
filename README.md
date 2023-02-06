@@ -4,7 +4,7 @@
 Exercises for unit testing. This is a Symfony project, run on php 8. You should only focus on testing CalculatorController. 
 Tests should be written in `tests/Calculator/CalculatorControllerTest.php`, where `tests/Calculator/CalculatorControllerSolvedTest.php`
 is here if you get really stuck. You should be able to reach  94% coverage. More than that should not really possible in this controller.
-But that's okay, as long as we get at least 80%.
+But that's okay, as long as we get at least 80%. Note that you will have to make changes to the controller. 
 
 ## xdebug
 If you want to see code coverage, i highly suggest installing xdebug. This will display you (un)covered lines.
